@@ -1,6 +1,6 @@
 # Akbar-Repository
 
-### Hi! 👋 I'm Ahmad Akbar.
+### Hi! 👋 I'm Ahmad Akbar, a junior web developer
   
 ### Github Statistic
 <p align="left">
