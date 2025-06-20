@@ -9,3 +9,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akbarvideoeditor03&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+- 📫 Reach me on: [Instagram](https://instagram.com/ahmadakbar03) | [LinkedIn](https://linkedin.com/in/ahmad-akbar-0a533b275/)
